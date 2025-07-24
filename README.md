@@ -23,3 +23,7 @@ In summary, this repository is a solid starting point for anyone looking to buil
 5. Visit `http://127.0.0.1:8000/docs` to explore the API with Swagger UI.
 
 Feel free to fork or extend this project to fit your own needs. Contributions, improvements, and feedback are always welcome!
+
+<img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/d323dce0-32e4-45a7-a923-26ce8224ecab" />
+<img width="1905" height="973" alt="Image" src="https://github.com/user-attachments/assets/120144b6-0fc2-4377-a2b3-84ca26e67634" />
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/031b561d-d429-479f-a010-f892665c2523" />
