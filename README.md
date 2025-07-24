@@ -1,3 +1,15 @@
+COMPANY NAME: CODETECH IT SOLUTIONS
+
+NAME: ADESH SWAIN
+
+Intern ID :CT12DL271
+
+DOMAIN: BACK END DEVELOPMENT
+
+DURATION: 12 WEEKS
+
+MENTOR: NEELA SANTHOSH
+
 This project is a robust and modern web API built using FastAPI, one of Python's most popular and high-performance frameworks for building APIs and web applications. Designed with scalability, clarity, and developer experience in mind, this repository demonstrates best practices in structuring a FastAPI project for real-world applications. By leveraging FastAPI, SQLAlchemy, and other essential tools, this project provides a strong foundation for building and extending RESTful APIs that are both easy to use and easy to maintain.
 
 The main goal of this project is to provide a backend service that can handle requests related to users and products, perform CRUD (Create, Read, Update, Delete) operations, and return responses in a structured format, typically using JSON. The project is organized into multiple modules and files, each with clear responsibilities. Models define the structure of the data as it is stored in the database, schemas ensure that the data entering and leaving the API is validated and documented, and routers help organize the endpoints into logical groups. By using routers, the application is easy to extend — new features such as additional resources or endpoints can be implemented cleanly in separate modules without cluttering the main application logic.
